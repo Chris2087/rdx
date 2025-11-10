@@ -1,62 +1,72 @@
 # rdx
 
 
-Experience-driven R&D 是一个专注R&D价值实现的框架，包括以下三个维度：
-    ##体验驱动机制
-    ##工具
-    ##KPI
+Experience-driven R&D is a framework for realizing R&D value through experience-driven mechanisms. It consists of three main components:
 
-旨在帮助R&D聚焦：
-    ##产品用户体验
-    ##团队成员交付体验
-    ##数据驱动的分布式改进
+1. Experience-Driven Mechanisms
 
-从而实现R&D整体的生产力提升和进化。
+    #External Users
 
-（1）体验驱动机制分为：
+    - Functional Experience
 
-    ##内部用户
-        ###任务交付体验反馈机制
-        ###跨团队协作体验反馈机制
-        ###能力提升体验反馈机制
-        ###价值实现体验反馈机制
-        运营体验：聚焦交付效率、工具顺畅度
-        创新体验：聚焦创意流动性、试验自由度
+    - Performance Experience
 
-    ##外部用户
-        ###功能体验
-        ###性能体验
-        ###稳定性体验
-        ###情感体验
-        ###社交体验
-        ###经济体验
+    - Stability Experience
 
-(2) 工具部分：
-    ###AI协助的智能任务/项目管理
-        自动识别瓶颈、预测风险、推荐知识文档
-        AI分析团队体验痛点
-    ###协作氛围导向的工具体验设计
-    ###各种LLM和SAAS对接整合，以及统一的数据展示
+    - Emotional Experience
+
+    - Social Experience
+
+    - Economic Experience
 
 
+    #Internal Users
 
-(3) KPI部分：
-    ###独立的体验KPI
-        体验KPI关注“感知价值”
-        跨团队依赖延迟率
-        沟通满意度
-        工具易用性评分
+    - Delivery Experience:
 
-    ###传统的绩效KPI
-        绩效KPI关注“产出结果”
+    - Task delivery experience feedback mechanisms
 
-（4）体验闭环
-    感知（Capture）→ 分析（Sensemaking）→ 改进（Act）→ 传播（Share）
-    体验资本 (Experience Capital)
-    体验反馈、工具使用数据、行为数据等，如何安全、合规、匿名化收集与使用
-    数据驱动但人性优先
-    反馈即资产
+    - Cross-team collaboration experience feedback mechanisms
 
-(5) 体验治理和文化
-    数据和反馈治理
-    体验文化规则
+    - Value realization experience feedback mechanisms
+
+    - Innovation Experience:
+
+    - Focused on creativity flow and experimentation freedom
+
+
+2. KPIs
+
+    #Independent Experience KPIs
+
+    - Experience KPIs focus on perceived value
+
+    - Cross-team dependency delay rate
+
+    - Communication satisfaction
+
+    - Tool usability score
+
+    #Traditional Performance KPIs
+
+    - Performance KPIs focus on output results
+
+3. Tools
+
+    #AI-assisted Intelligent Task/Project Management
+
+    - Automatically identify bottlenecks, predict risks, and recommend knowledge documents
+
+    - AI-driven analysis of team experience pain points
+
+    #Collaboration-oriented Tool Experience Design
+
+    #Integration of Various LLMs and SaaS Platforms with Unified Data Visualization
+
+### Experience-driven R&D forms a continuous loop of Perception (Capture) → Sensemaking → Action (Act) → Sharing (Share), helping R&D enhance productivity through the following dimensions:
+
+    - Product user experience
+
+    - Team member delivery experience
+
+    - Data-driven distributed improvement
