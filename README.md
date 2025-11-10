@@ -1,14 +1,14 @@
 # rdx
 
 
-rdx is a framework for supportting R&D delivery value through experience-driven mechanisms. It consists of three main components:
+rdx is a framework for supportting R&D to delivery value through experience-driven mechanisms. It consists of three main components:
 
 1. Mechanisms
 2. KPIs
 3. Tool
 
 
-## 1. Experience-Driven Mechanisms
+## [1. Experience-Driven Mechanisms](https://github.com/Chris2087/rdx/tree/main/mechanism/README.md)
 
 ### Internal Users
 
@@ -40,7 +40,7 @@ rdx is a framework for supportting R&D delivery value through experience-driven 
 - Economic Experience
 
 
-## 2. KPIs
+## [2. KPIs](https://github.com/Chris2087/rdx/tree/main/kpi/README.md)
 
 ### Independent Experience KPIs
 
@@ -57,7 +57,7 @@ rdx is a framework for supportting R&D delivery value through experience-driven 
 - Performance KPIs focus on output results
 
 
-## 3. Tool
+## [3. Tool](https://github.com/Chris2087/rdx/tree/main/tool/README.md)
 
 ### AI-assisted Intelligent Task/Project Management
 
@@ -67,4 +67,4 @@ rdx is a framework for supportting R&D delivery value through experience-driven 
 
 ### Collaboration-oriented Tool Experience Design
 
-### Integration of Various LLMs and SaaS Platforms with Unified Data Visualization
+### Integration of Various LLMs and SaaS Platforms with Unified Data Visualization 
