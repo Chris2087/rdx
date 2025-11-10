@@ -1,7 +1,7 @@
 # rdx
 
 
-Experience-driven R&D is a framework for supportting R&D delivery value through experience-driven mechanisms. It consists of three main components:
+rdx is a framework for supportting R&D delivery value through experience-driven mechanisms. It consists of three main components:
 
 1. Mechanisms
 2. KPIs
