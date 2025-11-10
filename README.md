@@ -1,77 +1,70 @@
 # rdx
 
 
-Experience-driven R&D is a framework for realizing R&D value through experience-driven mechanisms. It consists of three main components:
+Experience-driven R&D is a framework for supportting R&D delivery value through experience-driven mechanisms. It consists of three main components:
 
-### 1. Mechanisms
-### 2. KPIs
-### 3. Tool
-
-
-1. Experience-Driven Mechanisms
-
-    #External Users
-
-    - Functional Experience
-
-    - Performance Experience
-
-    - Stability Experience
-
-    - Emotional Experience
-
-    - Social Experience
-
-    - Economic Experience
-
-
-    #Internal Users
-
-    - Delivery Experience:
-
-    - Task delivery experience feedback mechanisms
-
-    - Cross-team collaboration experience feedback mechanisms
-
-    - Value realization experience feedback mechanisms
-
-    - Innovation Experience:
-
-    - Focused on creativity flow and experimentation freedom
-
-
+1. Mechanisms
 2. KPIs
+3. Tool
 
-    #Independent Experience KPIs
 
-    - Experience KPIs focus on perceived value
+## 1. Experience-Driven Mechanisms
 
-    - Cross-team dependency delay rate
+### Internal Users
 
-    - Communication satisfaction
+#### Delivery Experience:
 
-    - Tool usability score
+- Task delivery experience feedback mechanisms
 
-    #Traditional Performance KPIs
+- Cross-team collaboration experience feedback mechanisms
 
-    - Performance KPIs focus on output results
+- Value realization experience feedback mechanisms
 
-3. Tools
+#### Innovation Experience:
 
-    #AI-assisted Intelligent Task/Project Management
+- Focused on creativity flow and experimentation freedom
 
-    - Automatically identify bottlenecks, predict risks, and recommend knowledge documents
 
-    - AI-driven analysis of team experience pain points
+### External Users
 
-    #Collaboration-oriented Tool Experience Design
+- Functional Experience
 
-    #Integration of Various LLMs and SaaS Platforms with Unified Data Visualization
+- Performance Experience
 
-### Experience-driven R&D forms a continuous loop of Perception (Capture) → Sensemaking → Action (Act) → Sharing (Share), helping R&D enhance productivity through the following dimensions:
+- Stability Experience
 
-    - Product user experience
+- Emotional Experience
 
-    - Team member delivery experience
+- Social Experience
 
-    - Data-driven distributed improvement
+- Economic Experience
+
+
+## 2. KPIs
+
+### Independent Experience KPIs
+
+- Experience KPIs focus on perceived value
+
+- Cross-team dependency delay rate
+
+- Communication satisfaction
+
+- Tool usability score
+
+### Traditional Performance KPIs
+
+- Performance KPIs focus on output results
+
+
+## 3. Tool
+
+### AI-assisted Intelligent Task/Project Management
+
+- Automatically identify bottlenecks, predict risks, and recommend knowledge documents
+
+- AI-driven analysis of team experience pain points
+
+### Collaboration-oriented Tool Experience Design
+
+### Integration of Various LLMs and SaaS Platforms with Unified Data Visualization
